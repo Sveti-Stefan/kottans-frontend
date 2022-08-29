@@ -14,3 +14,10 @@ After reading about HTTP, I learned a little bit about how the Internet works.
 ![Module 2](./task_linux_cli/module2.png "Module 2")
 ![Module 3](./task_linux_cli/module3.png "Module 3")
 ![Module 4](./task_linux_cli/module4.png "Module 4")
+
+## Git Collaboration
+
+After passing these levels, I was left with a double impression. At first it was more or less easy, but then the difficulties began. Spent a lot of time and effort to go through them to the end. I hope this will be useful to me.
+
+![Screenshot 1](./task_git_collaboration/Screenshot1.png "Screenshot 1")
+![Module 2](./task_git_collaboration/Screenshot2.png "Module 2")
