@@ -21,3 +21,12 @@ After passing these levels, I was left with a double impression. At first it was
 
 ![Screenshot 1](./task_git_collaboration/Screenshot1.png "Screenshot 1")
 ![Module 2](./task_git_collaboration/Screenshot2.png "Module 2")
+
+## Intro to HTML and CSS
+
+It was interesting to learn the essence of HTML and CSS, to practice a little. It is still difficult to understand grids, how to layout for different screen sizes. But I think with practice everything will fall into place.
+
+![Screenshot 2](./task_html_css_intro\Screenshot_1.png "Screenshot 2")
+![Screenshot 2](./task_html_css_intro\Screenshot_2.png "Screenshot 2")
+![Screenshot 3](./task_html_css_intro\Screenshot_3.png "Screenshot 3")
+![Screenshot 4](./task_html_css_intro\Screenshot_4.png "Screenshot 4")
