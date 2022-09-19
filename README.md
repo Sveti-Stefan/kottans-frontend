@@ -30,3 +30,12 @@ It was interesting to learn the essence of HTML and CSS, to practice a little. I
 ![Screenshot 2](./task_html_css_intro/Screenshot_2.png "Screenshot 2")
 ![Screenshot 3](./task_html_css_intro/Screenshot_3.png "Screenshot 3")
 ![Screenshot 4](./task_html_css_intro/Screenshot_4.png "Screenshot 4")
+
+## Responsive Web Design
+
+It is good that in order to consolidate the acquired knowledge, these games were invented, they are really needed. I think I will still read about the grid, because I just understood how the flexes work and then the grid right away .. It takes time for everything to fit in the memory, time and practice.
+
+![Screenshot 1](./task_responsive_web_design/Screenshot_1.png "Screenshot 1")
+![Screenshot 2](./task_responsive_web_design/Screenshot_2.png "Screenshot 2")
+![Screenshot 3](./task_responsive_web_design/Flexbox%20Froggy.png "Screenshot 3")
+![Screenshot 4](./task_responsive_web_design/GRID%20GARDEN.png "Screenshot 4")
